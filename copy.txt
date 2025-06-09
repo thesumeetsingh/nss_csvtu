@@ -1,0 +1,4 @@
+import nssLogo from '../assets/nsslogo.png';9
+
+
+The National Service Scheme (NSS) aims to develop the personality of students through community service. It encourages youth to engage in voluntary work that promotes social and civic responsibility, national integration, and community development. Through various activities, NSS helps students understand the needs of society, foster leadership and teamwork, and contribute to nation-building with the spirit of selfless service. Guided by the motto "Not Me, But You," NSS inspires students to work for the welfare of others and become responsible citizens.
